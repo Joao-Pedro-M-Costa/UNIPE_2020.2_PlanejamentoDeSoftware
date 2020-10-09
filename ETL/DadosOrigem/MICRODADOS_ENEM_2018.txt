@@ -1,0 +1,12 @@
+A base de dados "MICRODADOS_ENEM_2018" pode ser encontrada em
+http://download.inep.gov.br/microdados/microdados_enem2018.zip
+
+ou 
+
+http://portal.inep.gov.br/web/guest/microdados
+
+dentro da pasta "DADOS" no arquivo microdados_enem2018.zip
+
+porem devido a limitacoes no envio de arquivos para o github, 
+limite de 100mb , o arquivo csv de 3,4 Gb não estara presente
+ aqui no github ate uma solucao ser encontrada

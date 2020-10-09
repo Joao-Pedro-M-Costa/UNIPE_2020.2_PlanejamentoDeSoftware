@@ -1,0 +1,14 @@
+Endereço do Repositório GIT.
+
+
+Bases de Dados de Origem.
+
+
+Artefatos de Protótipo de Telas Iniciais.
+-Desenhos (Paint)
+
+
+Estratégias de Especificação de Requisitos:
+
+01 - Requisitos de Interface do Painel.
+02 - Requisitos de ETL - (Transformações, Cargas e Extrações)..
