@@ -1,0 +1,7 @@
+As transformacoes 4,5,6,7 são para trocar os codigos das UF para
+Codigos compativeis com o geo chart do GOOGLE DATA STUDIO.
+
+	1.Transformacao 4: Local da aplicacao
+	2.Transformacao 5: Local de Nascimento
+	3.Transformacao 6: Local de residencia
+	4.Transformacao 7: Local da escola de ensino medio

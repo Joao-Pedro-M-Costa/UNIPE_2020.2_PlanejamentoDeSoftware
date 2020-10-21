@@ -1,0 +1,11 @@
+Busca diminuir o tamanho do arquivo, para este fim foram
+eliminados items superfluos:
+1-se existem codigos para itens sao preciso das strings com nomes
+	correspondentes, pelo menos nao de inicio
+
+2- As cores das provas, respostas e gabaritos podem ser 
+	necassarios para algumas analises mas nao serao 
+	necesssarias aqui
+
+3- o ano do enem foi 2018 entao nao preciso de um campo para 
+	indicar isso em todas as linhas

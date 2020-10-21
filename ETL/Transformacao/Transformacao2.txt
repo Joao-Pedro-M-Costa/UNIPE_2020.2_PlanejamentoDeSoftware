@@ -1,0 +1,8 @@
+Filtra candidatos que nao participaram de alguma provra
+items "NULL" foram considerados como não atendencia a prova
+
+1.Se um campo consta como nulo é eliminado
+	(direcionado para o Dummy)
+
+2.Filtra as entradas por atendencia onde o "1" sendo considerado
+ 	atendencia, "0" e "2" sendo nao presenca e eliminacao 

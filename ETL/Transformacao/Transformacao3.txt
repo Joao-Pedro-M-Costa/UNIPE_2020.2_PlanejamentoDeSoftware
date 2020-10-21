@@ -1,0 +1,37 @@
+Elimina colunas que nao vao ser usadas e linhas com valores nulos
+a respeito da metrica( notas e estado da redacao).
+
+1.Seleciona 25 valores 
+	** Codigo unidade ferativa(UF) **
+
+	1.NU_INSCRICAO - Numero da inscricao
+	2.CO_UF_RESIDENCIA - Codigo da UF de residencia
+	3.NU_IDADE - Idade
+	4.TP_SEXO - Sexo
+	5.TP_ESTADO_CIVIL - Estado civil
+	6.TP_COR_RACA - Cor/Raca
+	7.TP_NACIONALIDADE - Nacionalidade
+	8.CO_UF_NASCIMENTO - Codigo da UF  de nascimento
+	9.TP_ST_CONCLUSAO - Estado de conclusao do ensino medio
+	10.TP_ANO_CONCLUIU - Ano de conclusao do ensino medio
+	11.TP_ESCOLA - Tipo de escola do ensino medio
+	12.TP_ENSINO - Tipo de instituicao que concliu ou 
+		concluira o ensino meido
+	13.IN_TREINEIRO - Se a prova foi feita apenas para treino
+	14.CO_UF_ESC - Codigo da UF da escola
+	15.TP_DEPENDENCIA_ADM_ESC - Dependencia administrativa da
+		escola
+	16.TP_LOCALIZACAO_ESC - Local da escola (rural ou urbana)
+	17.TP_SIT_FUNC_ESC - Situacao de funcionamento da escola
+	18.CO_UF_PROVA - Codigo da UF de aplicacao da prova
+	19.TP_LINGUA - Escolha de lingua estrangeira
+	20.TP_STATUS_REDACAO - Situacao da redacao
+	21.NU_NOTA_COMP1 - 1º nota da redacao(Dominio formal)
+	22.NU_NOTA_COMP2 - 2º nota da redacao(Compreencao e 
+		aplicacao de outros conhecimentos ao temo)
+	23.NU_NOTA_COMP1 - 3º nota da redacao(Capacidade arguemntativa
+		 em defesa de um ponto de vista)
+	24.NU_NOTA_COMP1 - 4º nota da redacao(Construcao 
+		linguistica da argumentacao)
+	25.NU_NOTA_COMP1 - 5º nota da redacao(Intervencao no problema,
+		 respeitando os direitos humanos)
