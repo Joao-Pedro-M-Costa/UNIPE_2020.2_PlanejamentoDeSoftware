@@ -464,11 +464,11 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\joaop\Desktop\Estudo\2020.2\Classes\Planejamento de software\Projetos\UNIPE_2020.2_PlanejamentoDeSoftware\ETL\DadosTransformados\Dados_transformados7.csv</filename>
+    <filename>C:\Users\joaop\Desktop\Estudo\2020.2\Classes\Planejamento de software\Projetos\UNIPE_2020.2_PlanejamentoDeSoftware\ETL\DadosTransformados\Convertido.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
-    <separator>;</separator>
+    <separator>,</separator>
     <enclosure>"</enclosure>
     <header>Y</header>
     <buffer_size>50000</buffer_size>
@@ -514,145 +514,145 @@
       </field>
       <field>
         <name>ESTADO CIVIL</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>COR/RACA</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>NACIONALIDADE</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>ESTADO DE CONCLUSAO DO ENSINO MEDIO</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>ANO CONCLUIU ENSINO MEDIO</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>ESCOLA DE ENSINO MEDIO</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>TIPO DE ENSINO MEDIO</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>TREINEIRO</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>DEPENDENCIA ADMINISTRATIVA ESCOLAR</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>LOCALIZACAO DA ESCOLA</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>SITUACAO FUNCIONAMENTO ESCOLA</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>LINGUA ESTRANGEIRA</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
         <name>STATUS REDACAO</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>R$</currency>
         <decimal>,</decimal>
         <group>.</group>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
@@ -806,7 +806,7 @@
       <schema_name/>
     </partitioning>
     <reservoir_sampling>
-      <sample_size>1000000</sample_size>
+      <sample_size>365000</sample_size>
       <seed>454</seed>
     </reservoir_sampling>
     <attributes/>
@@ -903,159 +903,159 @@
       </field>
       <field>
         <name>ESTADO CIVIL</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>COR/RACA</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>NACIONALIDADE</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>ESTADO DE CONCLUSAO DO ENSINO MEDIO</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>ANO CONCLUIU ENSINO MEDIO</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>ESCOLA DE ENSINO MEDIO</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>TIPO DE ENSINO MEDIO</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>TREINEIRO</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>DEPENDENCIA ADMINISTRATIVA ESCOLAR</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>LOCALIZACAO DA ESCOLA</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>SITUACAO FUNCIONAMENTO ESCOLA</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>LINGUA ESTRANGEIRA</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>STATUS REDACAO</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>R$</currency>
-        <decimal>,</decimal>
-        <group>.</group>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
         <nullif/>
         <trim_type>none</trim_type>
         <length>15</length>
-        <precision>0</precision>
+        <precision>-1</precision>
       </field>
       <field>
         <name>NOTA 1</name>

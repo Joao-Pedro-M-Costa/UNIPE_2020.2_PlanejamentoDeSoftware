@@ -1,4 +1,4 @@
-Amostragem seleciona um numero(1.000.000) de entradas de forma 
+Amostragem seleciona um numero(365.000) de entradas de forma 
 "aleatoria"(de acordo com a "seed") esse numero foi escolhido 
 atravez de uma pesquisa "random number 100-1000" no google
 numero gerado : 454 

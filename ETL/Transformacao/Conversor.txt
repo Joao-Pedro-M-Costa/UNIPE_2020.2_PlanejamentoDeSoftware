@@ -1,0 +1,2 @@
+A tranformacao 8 utiliza o dicionario dos microdados do ENEM
+convertendo os numeros das entradas em Strings equivalentes
