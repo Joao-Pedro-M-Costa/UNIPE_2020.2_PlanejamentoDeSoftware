@@ -2501,7 +2501,7 @@
     <footer>N</footer>
     <format>DOS</format>
     <compression>None</compression>
-    <encoding/>
+    <encoding>windows-1252</encoding>
     <endedLine/>
     <fileNameInField>N</fileNameInField>
     <fileNameField/>
